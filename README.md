@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [ebt-ecommerce](https://github.com/Mohammad-Nadil/ebt-ecommerce.git)
 
-- 👨‍💻 All of my projects are available at [Github:mdnayemurrashid07](Github:mdnayemurrashid07)
+- 👨‍💻 All of my projects are available at [mdnayemurrashid07](mdnayemurrashid07)
 
 - 💬 Ask me about **React, JavaScript, Tailwind CSS, BootStrap**
 
