@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD NAYEMUR RASHID</h1>
 <h3 align="center">A passionate FrontEnd Developer from BANGLADESH</h3>
 
-- 🔭 I’m currently working on [uomo](https://github.com/mdnayemurrashid07/uomo.git)
+- 🔭 I’m currently working on [uomo](https://github.com/Mohammad-Nadil/uomo.git)
 
 - 🌱 I’m currently learning **Next JS & Node JS**
 
